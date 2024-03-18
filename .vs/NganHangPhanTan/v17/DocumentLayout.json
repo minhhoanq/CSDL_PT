@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|c:\\users\\mhtra\\source\\repos\\csdlpt\\nganhangphantan\\simpleform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|solutionrelative:nganhangphantan\\simpleform\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|C:\\Users\\mhtra\\source\\repos\\CSDLPT\\nganhangphantan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|solutionrelative:nganhangphantan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|C:\\Users\\mhtra\\source\\repos\\CSDLPT\\nganhangphantan\\simpleform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCD0277-6277-4079-87FC-29299384AA4E}|NganHangPhanTan\\NganHangPhanTan.csproj|solutionrelative:nganhangphantan\\simpleform\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\SimpleForm\\fMain.cs",
+              "RelativeDocumentMoniker": "NganHangPhanTan\\SimpleForm\\fMain.cs",
+              "ToolTip": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\SimpleForm\\fMain.cs",
+              "RelativeToolTip": "NganHangPhanTan\\SimpleForm\\fMain.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T16:01:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\Program.cs",
+              "RelativeDocumentMoniker": "NganHangPhanTan\\Program.cs",
+              "ToolTip": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\Program.cs",
+              "RelativeToolTip": "NganHangPhanTan\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:40:41.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\SimpleForm\\fLogin.cs",
+              "RelativeDocumentMoniker": "NganHangPhanTan\\SimpleForm\\fLogin.cs",
+              "ToolTip": "C:\\Users\\mhtra\\source\\repos\\CSDLPT\\NganHangPhanTan\\SimpleForm\\fLogin.cs",
+              "RelativeToolTip": "NganHangPhanTan\\SimpleForm\\fLogin.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowEQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:39:20.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

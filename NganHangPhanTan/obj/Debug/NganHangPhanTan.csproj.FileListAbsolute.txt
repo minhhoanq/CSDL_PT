@@ -1,0 +1,1327 @@
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.AssemblyReference.cache
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeManage.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeMove.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCustomerManage.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCreateLogin.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fOpenCustomerAccount.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTransaction.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportTransaction.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportOpenedAccount.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountByBrand.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountAllBrand.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportAccountDetail.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportAccountDetail.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransSendWithdrawal.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransExchange.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fChangeEndpointsExchangeTrans.resources
+F:\IT\School\CSDLPhanTan\NganHangPhanTan\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csprojAssemblyReference.cache
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportAccountDetail.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportOpenedAccount.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTransaction.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportAccountDetail.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountAllBrand.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountByBrand.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportTransaction.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fChangeEndpointsExchangeTrans.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCreateLogin.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCustomerManage.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeManage.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeMove.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fOpenCustomerAccount.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransExchange.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransSendWithdrawal.resources
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\3D Objects\Tai lieu\co so du lieu phan tan\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csprojAssemblyReference.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportAccountDetail.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportOpenedAccount.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTransaction.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportAccountDetail.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountAllBrand.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportOpenedAccountByBrand.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportTransaction.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fChangeEndpointsExchangeTrans.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCreateLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fCustomerManage.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeManage.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeMove.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fOpenCustomerAccount.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransExchange.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTransSendWithdrawal.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.csprojAssemblyReference.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTaoLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVien.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fGiaoDIchTK.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fEmployeeMove.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fMoTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanTatCaChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang_PTIT-master (1)\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.csprojAssemblyReference.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanTatCaChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTaoLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVien.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fGiaoDIchTK.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fMoTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVienMove.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHang\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh2.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.csprojAssemblyReference.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh2.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanTatCaChiNhanh.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportSaoKe.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTaoLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fKhachHang.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVien.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fGiaoDIchTK.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVienMove.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fMoTaiKhoan.resources
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CopyComplete
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\hyipd\Desktop\CSDLPT_NganHangNguyenVanDanh-20220604T075620Z-001\CSDLPT_NganHangNguyenVanDanh\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.AssemblyReference.cache
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe.config
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\NganHangPhanTan.exe
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\NganHangPhanTan.pdb
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.BonusSkins.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Charts.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.CodeParser.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v23.2.Export.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Utils.v23.2.UI.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.DataVisualization.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v23.2.UI.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v23.2.Extensions.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v23.2.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v23.2.Core.dll
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Charts.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.PivotGrid.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Utils.v23.2.UI.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Xpo.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraGauges.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraReports.v23.2.Extensions.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraVerticalGrid.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.DataAccess.v23.2.UI.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraNavBar.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraCharts.v23.2.Wizard.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraPivotGrid.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.XtraDiagram.v23.2.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\bin\Debug\DevExpress.Diagram.v23.2.Core.xml
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportKhachHang.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportTaiKhoan.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.fReportSaoKe.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportKhachHang.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanChiNhanh2.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportMoTaiKhoanTatCaChiNhanh.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Report.ReportSaoKe.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fTaoLogin.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fGiaoDIchTK.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVienMove.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.Properties.Resources.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.fLogin.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.GenerateResource.cache
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe.licenses
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.csproj.CoreCompileInputs.cache
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHang.4440C4E4.Up2Date
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.exe
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.pdb
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fKhachHang.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fNhanVien.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.SimpleForm.fMoTaiKhoan.resources
+C:\Users\mhtra\source\repos\CSDLPT\NganHangPhanTan\obj\Debug\NganHangPhanTan.fMain.resources
